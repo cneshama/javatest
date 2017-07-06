@@ -5,7 +5,7 @@
 <%-- </html> --%>
 
 
-<ge contentType="text/html; charset=euc-jp" %>
+<%@ page contentType="text/html; charset=UTF-8" %>
 <%
 // 内容: 時刻を表示する例
  
